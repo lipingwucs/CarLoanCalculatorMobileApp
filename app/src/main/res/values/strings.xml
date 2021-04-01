@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Car Loan Calculator App</string>
+    <string name="startDate">Start Date </string>
+    <string name="result1">Total loan amount with interest displayed here:</string>
+    <string name="result2">Monthly loan installment displayed here:</string>
+    <string name="labDuration">Duration (Yr):</string>
+    <string name="defaultLoanAmount">10000</string>
+    <string name="labLoanAmount">Loan Amount: $</string>
+    <string name="labStartDate"> Start Date: </string>
+    <string name="labInterest"> Interest: </string>
+    <string name="rate1">2.0%</string>
+    <string name="rate2">2.5%</string>
+    <string name="rate3">3.0%</string>
+    <string name="butCal">  Calculate  </string>
+
+</resources>
