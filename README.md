@@ -1,6 +1,6 @@
 # CarLoanCalculatorMobileApp
 
-* # Default page
+* # Main page
 
 ![0](https://user-images.githubusercontent.com/80490008/113348557-baea4680-9304-11eb-889d-1ee5415310ba.jpg)
 
